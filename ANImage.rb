@@ -1,3 +1,4 @@
+#I had to add this to my path in order to load RMagick. It probably won't work the same way for you. Watch out.
 $LOAD_PATH << '/var/lib/gems/1.8/gems/rmagick-2.13.1/lib'
 require 'RMagick'
 include Magick
