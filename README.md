@@ -10,8 +10,8 @@ Result
 
 In a matter of seconds, CarScan can scan this image:
 
-![Original](https://github.com/unixpickle/CanScan/raw/master/img/D6Cam093.jpg)
+![Original](https://github.com/unixpickle/CarScan/raw/master/img/D6Cam093.jpg)
 
 Producing an image with all of the detected cars highlighted:
 
-![Scanned for cars](https://github.com/unixpickle/CanScan/raw/master/img/carsdetected.png)
+![Scanned for cars](https://github.com/unixpickle/CarScan/raw/master/img/carsdetected.png)
